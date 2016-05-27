@@ -1,4 +1,4 @@
-#bxSlider 4.2.5
+#bxSlider 4.2.6
 ##The fully-loaded, responsive jQuery content slider
 
 Custom build by O2
